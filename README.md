@@ -201,4 +201,4 @@ For questions or suggestions, please open an issue on GitHub.
 
 ---
 
-** by Mateo Gomez Tamayo**
+**by Mateo Gomez Tamayo**
